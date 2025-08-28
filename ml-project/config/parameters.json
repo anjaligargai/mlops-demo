@@ -1,0 +1,4 @@
+{
+    "input_data_s3": "s3://<your-bucket>/data.csv",
+    "model_output_s3": "s3://<your-bucket>/models/"
+}
